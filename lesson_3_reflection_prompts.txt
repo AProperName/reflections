@@ -26,7 +26,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I have to meet up and work together. If not, then i have to work in turn with someone sending me his version of the work, wait for my response and vice versa.
+Easier things are that we could keep our work between us, share it when we want to, and don't have to worry about commits, branches, merge and pull requests.
+Harder things are that we will have to try hard to merge our work, keep in touch to tell each other about every changes, rollback when we prefer the old version more, and public the work so that we could ask others for help.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
