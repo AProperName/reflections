@@ -21,7 +21,7 @@ Branch is of great use when i want to experiment, try making another version of 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Having a copy of the last known state of the remote will give a a comparision between my current state and that one, in case i forget to push or to check the updates on the remote repository after commiting changes.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
