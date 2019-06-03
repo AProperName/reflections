@@ -33,4 +33,6 @@ Harder things are that we will have to try hard to merge our work, keep in touch
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When i think the work is unofficial and i want my collaborators to feedback on my current work so that i can improve it.
+Making changes in a separate branch gives me chances to test, to experiment, to receive feedback, to edit and commit many times as i need before actually complete the work, and to keep my master branch clearer.
+Making changes directly in master saves me time as i don't have to deal with merge conflicts. It's automatic fast-forward merge, also.
